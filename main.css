@@ -1,0 +1,415 @@
+/******************************************* GLOBAL STYLES *****************************************************/
+
+* {
+  box-sizing: border-box;
+  font-family: DIN;
+}
+
+body {
+  background-color: #dcdddf;
+}
+
+/*********************************************** LAYOUT *********************************************************/
+.img-block {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+}
+
+header {
+  margin-bottom: 50px;
+}
+
+
+.row {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 50px;
+}
+
+.table-wrap {
+  display: inline-block;
+  position: relative;
+}
+.sponsores{
+  display: flex;
+  justify-content: center;
+
+}
+.sponsores :nth-child(2){
+  max-width: 77%;
+}
+.sponsores :nth-child(1){
+  max-width: 80%;
+}
+i{
+
+  color: #000000;
+  opacity: 0.8;
+}
+.social{
+  text-align: center;
+}
+/**************** media queries **************************/
+@media (min-width:320px) {
+  .container {
+    padding: 6px;
+  }
+
+  .logo {
+    padding: 0 30px;
+  }
+
+  .links {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 9px 4px 0 0;
+    width: 100%;
+    right: 0px;
+    top: 0px;
+    text-align: center;
+    color: #000000;
+    opacity: 0.8;
+  }
+
+  .link {
+    float: right;
+    text-decoration: none;
+    width: 100%;
+    background-color: black;
+    color: #dcdddf;
+    text-decoration: none;
+    padding: 5px;
+    margin-bottom: 3px;
+    border-radius: 3px;
+  }
+  .heading-wrap {
+    margin-bottom: 50px;
+  }
+
+  .img-wrap {
+    margin-bottom: 50px;
+  }
+  .Loop {
+    width: 320px;
+    height: 320px;
+    overflow: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+  section {
+    min-height: 485px;
+    height: 100%;
+
+  }
+  ::-webkit-scrollbar {
+      display: none;
+  }
+
+  .one {
+  background-image: url('trake/traka_1.svg');
+  background-size: cover;
+  }
+  .two {
+    background-image: url('trake/traka_2-1.svg');
+    background-size: cover;
+  }
+  .three {
+    background-image: url('trake/traka_2-2.svg');
+    background-size: cover;
+  }
+  .four {
+    background-image: url('trake/traka_3-1.svg');
+    background-size: cover;
+  }
+  .five{
+    background-image: url('trake/traka_3-2.svg');
+    background-size: cover;
+  }
+
+  .gradient-top {
+    position: absolute;
+    top: -1px;
+    left: 0px;
+    width: 100%;
+    /*   gradient */
+    background: -moz-linear-gradient(top, rgba(220,221,223,1) 0%, rgba(220,221,223,0) 100%);
+  background: -webkit-linear-gradient(top, rgba(220,221,223,1) 0%,rgba(220,221,223,0) 100%);
+  background: linear-gradient(to bottom, rgba(220,221,223,1) 0%,rgba(220,221,223,0) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#dcdddf', endColorstr='#00dcdddf',GradientType=0 );
+  }
+
+  .gradient-bottom {
+    position: absolute;
+    bottom: -1px;
+    left: 0px;
+    width: 100%;
+    /*   gradient */
+    background: -moz-linear-gradient(top, rgba(220,221,223,0) 0%, rgba(220,221,223,1) 100%);
+    background: -webkit-linear-gradient(top, rgba(220,221,223,0) 0%,rgba(220,221,223,1) 100%);
+    background: linear-gradient(to bottom, rgba(220,221,223,0) 0%,rgba(220,221,223,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00dcdddf', endColorstr='#dcdddf',GradientType=0 );
+  }
+
+  ::-webkit-scrollbar {
+    width: 0px;
+    /* remove scrollbar space */
+    background: transparent;
+    /* optional: just make scrollbar invisible */
+  }
+
+
+  .gradient-top, .gradient-bottom {
+    height: 35px;
+  }
+
+  .cards-holder {
+    color: #000000;
+    opacity: 0.9;
+    margin: 0 auto;
+    width: 250px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .card {
+    width: 200px;
+    margin: 10px 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .user {
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+  }
+
+  .name {
+    width: 100%;
+    margin: 5px 0;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 20px;
+    text-align: center;
+  }
+
+  .job {
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+  }
+
+  .adress {
+    color: #000000;
+    opacity: 0.9;
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+    margin: 25px 0;
+  }
+  .sponsores :nth-child(2){
+    margin-left: 5px;
+  }
+  .sponsores{
+    margin-top: 70px;
+    margin-bottom: 30px;
+  }
+  i{
+    font-size: 25px;
+    padding: 5px;
+}
+
+@media (min-width:450px) {
+  .container {
+    padding: 15px;
+  }
+
+  .links {
+    margin: 15px 15px 0 0;
+  }
+  .heading-wrap {
+    margin-bottom: 80px;
+  }
+
+  .img-wrap {
+    margin-bottom: 80px;
+  }
+  .Loop {
+    width: 440px;
+    height: 440px;
+  }
+  section {
+    min-height: 666px;
+  }
+  .gradient-top, .gradient-bottom {
+    height: 40px;
+  }
+
+  .cards-holder {
+    width: 450px;
+  }
+  .sponsores{
+    margin-top: 80px;
+    margin-bottom: 40px;
+  }
+  i{
+    font-size: 30px;
+    padding: 10px;
+}
+.adress {
+  font-size: 20px;
+  margin: 30px 0;
+}
+}
+
+@media (min-width:600px) {
+  .container {
+    padding: 30px;
+  }
+
+  .links {
+    position: absolute;
+    margin: 30px 30px 0 0;
+    width: 145px;
+    flex-wrap: nowrap;
+  }
+
+  .link {
+    margin-left: 3px;
+  }
+
+  .heading-wrap {
+    margin-bottom: 100px;
+  }
+
+  .img-wrap {
+    margin-bottom: 100px;
+  }
+  .Loop {
+    width: 540px;
+    height: 540px;
+  }
+  section {
+    min-height: 818px;
+  }
+  .gradient-top, .gradient-bottom {
+    height: 45px;
+  }
+  .sponsores :nth-child(2){
+    margin-left: 10px;
+  }
+  .adress {
+    font-size: 20px;
+    margin: 35px 0;
+  }
+
+}
+
+@media (min-width:900px) {
+  .container {
+    padding: 40px;
+  }
+
+  .links {
+    width: 160px;
+    margin: 40px 40px 0 0;
+  }
+  .heading-wrap {
+    margin-bottom: 120px;
+  }
+
+  .img-wrap {
+    margin-bottom: 120px;
+  }
+  .Loop {
+    width: 640px;
+    height: 600px;
+  }
+  section {
+    min-height: 969px;
+  }
+  .gradient-top, .gradient-bottom {
+    height: 50px;
+  }
+  .cards-holder {
+    width: 700px;
+  }
+
+  .card {
+    margin: 20px 15px;
+  }
+  .sponsores :nth-child(2){
+    margin-left: 15px;
+  }
+  .sponsores{
+    margin-top: 90px;
+    margin-bottom: 50px;
+  }
+  i{
+    font-size: 40px;
+    padding: 12px;
+}
+.adress {
+  font-size: 25px;
+  margin: 45px 0;
+}
+
+}
+
+@media (min-width:1200px) {
+  .container {
+    padding: 50px;
+  }
+
+  .links {
+    margin: 50px 50px 0 0;
+  }
+  .heading-wrap {
+    margin-bottom: 150px;
+  }
+
+  .img-wrap {
+    margin-bottom: 150px;
+  }
+  .Loop {
+    width: 990px;
+    height: 790px;
+  }
+  section {
+    min-height: 1500px;
+  }
+  .gradient-top, .gradient-bottom {
+    height: 70px;
+  }
+
+  .cards-holder {
+    width: 920px;
+  }
+  .sponsores :nth-child(2){
+    margin-left: 25px;
+  }
+  .sponsores{
+    margin-top: 100px;
+    margin-bottom: 60px;
+  }
+  i{
+    font-size: 45px;
+    padding: 15px;
+}
+}
+
+/******************************************* SPECIFIC CLASSES ************************************************/
+h2 {
+  text-align: center;
+  color: #000000;
+  opacity: 0.9;
+}
+
+/******************************************** HELPER CLASSES *************************************************/

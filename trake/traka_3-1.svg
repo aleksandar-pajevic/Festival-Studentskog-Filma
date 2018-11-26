@@ -1,0 +1,141 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 990 1500">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-traka_3-1);
+      }
+
+      .cls-2 {
+        fill: rgba(88,86,69,0.43);
+      }
+
+      .cls-3 {
+        fill: rgba(0,0,0,0.8);
+      }
+
+      .cls-10, .cls-15, .cls-16, .cls-4 {
+        fill: rgba(21,21,21,0.85);
+      }
+
+      .cls-4 {
+        font-size: 26px;
+      }
+
+      .cls-12, .cls-13, .cls-15, .cls-16, .cls-4 {
+        font-family: DINNextLTPro-Bold, DIN Next LT Pro;
+        font-weight: 700;
+      }
+
+      .cls-5, .cls-8, .cls-9 {
+        fill: #fff;
+      }
+
+      .cls-13, .cls-14, .cls-6, .cls-7 {
+        fill: #e5e5e5;
+      }
+
+      .cls-7, .cls-9 {
+        font-size: 20px;
+      }
+
+      .cls-14, .cls-7, .cls-8, .cls-9 {
+        font-family: DINNextLTPro-Regular, DIN Next LT Pro;
+      }
+
+      .cls-7, .cls-8, .cls-9 {
+        font-weight: 400;
+      }
+
+      .cls-11 {
+        fill: #000;
+      }
+
+      .cls-12 {
+        fill: rgba(21,21,21,0.75);
+        font-size: 33px;
+      }
+
+      .cls-13 {
+        font-size: 35px;
+      }
+
+      .cls-13, .cls-16 {
+        text-decoration: underline;
+      }
+
+      .cls-14, .cls-16 {
+        font-size: 16px;
+      }
+
+      .cls-15 {
+        font-size: 22px;
+      }
+
+      .cls-17 {
+        fill: #dcdddf;
+      }
+
+      .cls-18 {
+        filter: url(#Exclusion_4);
+      }
+    </style>
+    <filter id="Exclusion_4" x="0" y="-12.002" width="1002" height="1524.003" filterUnits="userSpaceOnUse">
+      <feOffset dx="40" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feFlood flood-opacity="0.149"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-traka_3-1">
+      <rect width="990" height="1500"/>
+    </clipPath>
+  </defs>
+  <g id="traka_3-1" class="cls-1">
+    <rect class="cls-17" width="990" height="1500"/>
+    <path id="Rectangle_65" data-name="Rectangle 65" class="cls-2" d="M0,0H600a0,0,0,0,1,0,0V170a10,10,0,0,1-10,10H10A10,10,0,0,1,0,170V0A0,0,0,0,1,0,0Z" transform="translate(175)"/>
+    <rect id="Rectangle_66" data-name="Rectangle 66" class="cls-2" width="600" height="1153" rx="10" transform="translate(175 220)"/>
+    <path id="Rectangle_67" data-name="Rectangle 67" class="cls-2" d="M10,0H590a10,10,0,0,1,10,10V87a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V10A10,10,0,0,1,10,0Z" transform="translate(175 1413)"/>
+    <g class="cls-18" transform="matrix(1, 0, 0, 1, 0, 0)">
+      <path id="Exclusion_4-2" data-name="Exclusion 4" class="cls-3" d="M-4515,155h-10V130a15.017,15.017,0,0,0-15-15h-125a15.017,15.017,0,0,0-15,15v25h-10V78a10.012,10.012,0,0,0-10-10h-580a10.011,10.011,0,0,0-10,10v77h-10V130a15.017,15.017,0,0,0-15-15h-125a15.018,15.018,0,0,0-15,15v25h-10V-1345h10v25a15.017,15.017,0,0,0,15,15h125a15.016,15.016,0,0,0,15-15v-25h10v170a10.011,10.011,0,0,0,10,10h580a10.012,10.012,0,0,0,10-10v-170h10v25a15.017,15.017,0,0,0,15,15h125a15.017,15.017,0,0,0,15-15v-25h10V155ZM-4665-21a15.017,15.017,0,0,0-15,15V44a15.017,15.017,0,0,0,15,15h125a15.017,15.017,0,0,0,15-15V-6a15.017,15.017,0,0,0-15-15Zm-775,0a15.018,15.018,0,0,0-15,15V44a15.017,15.017,0,0,0,15,15h125a15.016,15.016,0,0,0,15-15V-6a15.017,15.017,0,0,0-15-15Zm160-1104a10.011,10.011,0,0,0-10,10V18a10.011,10.011,0,0,0,10,10h580a10.012,10.012,0,0,0,10-10V-1115a10.012,10.012,0,0,0-10-10Zm615,967a15.017,15.017,0,0,0-15,15v50a15.017,15.017,0,0,0,15,15h125a15.017,15.017,0,0,0,15-15v-50a15.017,15.017,0,0,0-15-15Zm-775,0a15.018,15.018,0,0,0-15,15v50a15.018,15.018,0,0,0,15,15h125a15.017,15.017,0,0,0,15-15v-50a15.017,15.017,0,0,0-15-15Zm775-136a15.017,15.017,0,0,0-15,15v50a15.017,15.017,0,0,0,15,15h125a15.017,15.017,0,0,0,15-15v-50a15.017,15.017,0,0,0-15-15Zm-775,0a15.018,15.018,0,0,0-15,15v50a15.018,15.018,0,0,0,15,15h125a15.017,15.017,0,0,0,15-15v-50a15.017,15.017,0,0,0-15-15Zm775-136a15.017,15.017,0,0,0-15,15v50a15.017,15.017,0,0,0,15,15h125a15.017,15.017,0,0,0,15-15v-50a15.017,15.017,0,0,0-15-15Zm-775,0a15.018,15.018,0,0,0-15,15v50a15.018,15.018,0,0,0,15,15h125a15.017,15.017,0,0,0,15-15v-50a15.017,15.017,0,0,0-15-15Zm775-137a15.017,15.017,0,0,0-15,15v50a15.017,15.017,0,0,0,15,15h125a15.017,15.017,0,0,0,15-15v-50a15.017,15.017,0,0,0-15-15Zm-775,0a15.018,15.018,0,0,0-15,15v50a15.018,15.018,0,0,0,15,15h125a15.017,15.017,0,0,0,15-15v-50a15.017,15.017,0,0,0-15-15Zm775-136a15.017,15.017,0,0,0-15,15v50a15.017,15.017,0,0,0,15,15h125a15.017,15.017,0,0,0,15-15v-50a15.017,15.017,0,0,0-15-15Zm-775,0a15.018,15.018,0,0,0-15,15v50a15.018,15.018,0,0,0,15,15h125a15.017,15.017,0,0,0,15-15v-50a15.017,15.017,0,0,0-15-15Zm775-137a15.017,15.017,0,0,0-15,15v50a15.017,15.017,0,0,0,15,15h125a15.017,15.017,0,0,0,15-15v-50a15.017,15.017,0,0,0-15-15Zm-775,0a15.018,15.018,0,0,0-15,15v50a15.018,15.018,0,0,0,15,15h125a15.017,15.017,0,0,0,15-15v-50a15.017,15.017,0,0,0-15-15Zm775-136a15.017,15.017,0,0,0-15,15v50a15.017,15.017,0,0,0,15,15h125a15.017,15.017,0,0,0,15-15v-50a15.017,15.017,0,0,0-15-15Zm-775,0a15.017,15.017,0,0,0-15,15v50a15.018,15.018,0,0,0,15,15h125a15.017,15.017,0,0,0,15-15v-50a15.016,15.016,0,0,0-15-15Zm775-136a15.017,15.017,0,0,0-15,15v50a15.017,15.017,0,0,0,15,15h125a15.017,15.017,0,0,0,15-15v-50a15.017,15.017,0,0,0-15-15Zm-775,0a15.017,15.017,0,0,0-15,15v50a15.018,15.018,0,0,0,15,15h125a15.017,15.017,0,0,0,15-15v-50a15.016,15.016,0,0,0-15-15Zm775-137a15.017,15.017,0,0,0-15,15v50a15.017,15.017,0,0,0,15,15h125a15.017,15.017,0,0,0,15-15v-50a15.017,15.017,0,0,0-15-15Zm-775,0a15.017,15.017,0,0,0-15,15v50a15.018,15.018,0,0,0,15,15h125a15.017,15.017,0,0,0,15-15v-50a15.016,15.016,0,0,0-15-15Z" transform="translate(5465 1345)"/>
+    </g>
+    <text id="READY_FOR_A_BABY_Australija_animirani_4_min_55_sek_THE_AFTER_LIFE_Grčka_kratki_igrani_7_min_10_sek_MARKED_Srbija_dokumentarni_10_min_45_sek_MY_LABEL_Belgija_animirani_4_min_05_sek_ARTIFICIAL_BID_Velika_Britanija_kratki_igrani_12_min_10_sek_" data-name="READY FOR A BABY Australija
+animirani | 4 min 55 sek
+
+THE AFTER LIFE Grčka
+kratki igrani | 7 min 10 sek
+
+MARKED Srbija
+dokumentarni | 10 min 45 sek
+
+MY LABEL Belgija
+animirani | 4 min 05 sek
+
+ARTIFICIAL BID Velika Britanija
+kratki igrani | 12 min 10 sek 
+
+" class="cls-4" transform="translate(475 657)"><tspan x="-169.702" y="0">READY FOR A BABY</tspan><tspan class="cls-5" y="0"> </tspan><tspan class="cls-6" y="0">Australija</tspan><tspan class="cls-7"><tspan x="-103.67" y="28">animirani | 4 min 55 sek</tspan></tspan><tspan class="cls-8"><tspan x="0" y="56"></tspan></tspan><tspan x="-129.428" y="84">THE AFTER LIFE</tspan><tspan class="cls-5" y="84"> </tspan><tspan class="cls-6" y="84">Grčka</tspan><tspan class="cls-7"><tspan x="-114.71" y="112">kratki igrani | 7 min 10 sek</tspan></tspan><tspan class="cls-8"><tspan x="0" y="140"></tspan></tspan><tspan x="-87.607" y="168">MARKED</tspan><tspan class="cls-5" y="168"> </tspan><tspan class="cls-6" y="168">Srbija</tspan><tspan class="cls-7"><tspan x="-128.32" y="196">dokumentarni | 10 min 45 sek</tspan></tspan><tspan class="cls-8"><tspan x="0" y="224"></tspan></tspan><tspan x="-100.62" y="252">MY LABEL</tspan><tspan class="cls-5" y="252" xml:space="preserve"> Belgija</tspan><tspan class="cls-9"><tspan x="-103.67" y="280">animirani | 4 min 05 sek</tspan></tspan><tspan class="cls-8"><tspan x="0" y="308"></tspan></tspan><tspan x="-177.255" y="336">ARTIFICIAL BID</tspan><tspan class="cls-5" y="336"> </tspan><tspan class="cls-6" y="336">Velika Britanija</tspan><tspan class="cls-7"><tspan x="-122.53" y="364">kratki igrani | 12 min 10 sek</tspan><tspan class="cls-5" y="364"> </tspan></tspan><tspan class="cls-8"><tspan x="0" y="392"></tspan></tspan><tspan x="-140.53" y="420">TO BE A TORERO</tspan><tspan class="cls-5" y="420"> </tspan><tspan class="cls-6" y="420">Španija</tspan><tspan class="cls-7"><tspan x="-128.32" y="448">dokumentarni | 14 min 10 sek</tspan></tspan><tspan class="cls-8"><tspan x="0" y="476"></tspan></tspan><tspan class="cls-6"><tspan class="cls-10" x="-186.108" y="504">ALL THE WORLD IS GREEN</tspan><tspan class="cls-11" y="504"> </tspan><tspan class="cls-6" y="504">Liban</tspan></tspan><tspan class="cls-7"><tspan x="-120.13" y="532">kratki igrani | 21 min 30 sek</tspan></tspan><tspan class="cls-8"><tspan x="0" y="560"></tspan></tspan><tspan class="cls-6"><tspan class="cls-10" x="-172.562" y="588">LOOKING FOR DENI</tspan><tspan class="cls-11" y="588"> </tspan><tspan class="cls-6" y="588">Kazahstan</tspan></tspan><tspan class="cls-7"><tspan x="-97.55" y="616">dokumentarni | 19 min</tspan></tspan><tspan class="cls-8"><tspan x="0" y="644"></tspan></tspan><tspan x="-224.237" y="672">DRESSED FOR A PLEASURE</tspan><tspan class="cls-5" y="672"> </tspan><tspan class="cls-6" y="672">Švajcarska</tspan><tspan class="cls-7"><tspan x="-120.13" y="700">kratki igrani | 16 min 30 sek</tspan></tspan></text>
+    <text id="RADIONICE_PREDVIÐENE_FESTIVALSKIM_PROGRAMOM" data-name="RADIONICE PREDVIÐENE FESTIVALSKIM 
+PROGRAMOM" class="cls-12" transform="translate(475 279.263)"><tspan x="-294.36" y="0">RADIONICE PREDVIÐENE FESTIVALSKIM </tspan><tspan x="-97.399" y="34">PROGRAMOM</tspan></text>
+    <text id="TREĆI_DAN_FESTIVALA_nedelja_23._decembar_2018." data-name="TREĆI DAN FESTIVALA
+ nedelja, 23. decembar 2018." class="cls-13" transform="translate(475 127.18)"><tspan x="-173.337" y="0">TREĆI DAN FESTIVALA</tspan><tspan x="-222.04" y="34" xml:space="preserve"> nedelja, 23. decembar 2018.</tspan></text>
+    <text id="ČETVRTA_PROJEKCIJA_FILMOVA_U_TAKMIČARSKOM_PROGRAMU" data-name="ČETVRTA PROJEKCIJA FILMOVA U 
+TAKMIČARSKOM PROGRAMU" class="cls-12" transform="translate(475 546.559)"><tspan x="-249.546" y="0">ČETVRTA PROJEKCIJA FILMOVA U </tspan><tspan x="-208.824" y="34">TAKMIČARSKOM PROGRAMU</tspan></text>
+    <text id="_trajanje_projekcije:_2_sat_00_minuta_15_sekundi_" data-name="(trajanje projekcije: 2 sat 00 minuta 15 sekundi)" class="cls-14" transform="translate(475 610.59)"><tspan x="-163.048" y="0">(trajanje projekcije: 2 sat 00 minuta 15 sekundi)</tspan></text>
+    <text id="PAUZA" class="cls-12" transform="translate(475 424.263)"><tspan x="-49.368" y="0">PAUZA</tspan></text>
+    <g id="Group_5" data-name="Group 5" transform="translate(-3 -4)">
+      <text id="_10:00_-16:00_" data-name="10:00 -16:00 " class="cls-15" transform="translate(89 286)"><tspan x="-64.372" y="0">10:00 -16:00 </tspan></text>
+      <text id="h" class="cls-16" transform="translate(153 272)"><tspan x="-4.424" y="0">h</tspan></text>
+      <text id="h-2" data-name="h" class="cls-16" transform="translate(84 272)"><tspan x="-4.424" y="0">h</tspan></text>
+    </g>
+    <g id="Group_5-2" data-name="Group 5" transform="translate(-3 270)">
+      <text id="_17:00_-19:00_" data-name="17:00 -19:00 " class="cls-15" transform="translate(89 286)"><tspan x="-64.372" y="0">17:00 -19:00 </tspan></text>
+      <text id="h-3" data-name="h" class="cls-16" transform="translate(153 272)"><tspan x="-4.424" y="0">h</tspan></text>
+      <text id="h-4" data-name="h" class="cls-16" transform="translate(84 272)"><tspan x="-4.424" y="0">h</tspan></text>
+    </g>
+    <g id="Group_5-3" data-name="Group 5" transform="translate(-3 134)">
+      <text id="_16:00_-17:00_" data-name="16:00 -17:00 " class="cls-15" transform="translate(89 286)"><tspan x="-64.372" y="0">16:00 -17:00 </tspan></text>
+      <text id="h-5" data-name="h" class="cls-16" transform="translate(153 272)"><tspan x="-4.424" y="0">h</tspan></text>
+      <text id="h-6" data-name="h" class="cls-16" transform="translate(84 272)"><tspan x="-4.424" y="0">h</tspan></text>
+    </g>
+  </g>
+</svg>

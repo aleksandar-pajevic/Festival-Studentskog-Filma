@@ -1,0 +1,133 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 990 1500">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-traka_2-2);
+      }
+
+      .cls-2 {
+        fill: rgba(88,86,69,0.43);
+      }
+
+      .cls-3 {
+        fill: rgba(0,0,0,0.8);
+      }
+
+      .cls-12, .cls-13, .cls-4 {
+        fill: rgba(21,21,21,0.85);
+      }
+
+      .cls-4 {
+        font-size: 26px;
+      }
+
+      .cls-11, .cls-12, .cls-13, .cls-4, .cls-9 {
+        font-family: DINNextLTPro-Bold, DIN Next LT Pro;
+        font-weight: 700;
+      }
+
+      .cls-5, .cls-8 {
+        fill: #fff;
+      }
+
+      .cls-10, .cls-6, .cls-7 {
+        fill: #e5e5e5;
+      }
+
+      .cls-7, .cls-8 {
+        font-size: 20px;
+        font-weight: 400;
+      }
+
+      .cls-10, .cls-7, .cls-8 {
+        font-family: DINNextLTPro-Regular, DIN Next LT Pro;
+      }
+
+      .cls-11, .cls-9 {
+        fill: rgba(21,21,21,0.75);
+      }
+
+      .cls-9 {
+        font-size: 33px;
+      }
+
+      .cls-10, .cls-13 {
+        font-size: 16px;
+      }
+
+      .cls-11 {
+        font-size: 30px;
+      }
+
+      .cls-12 {
+        font-size: 22px;
+      }
+
+      .cls-13 {
+        text-decoration: underline;
+      }
+
+      .cls-14 {
+        fill: #dcdddf;
+      }
+
+      .cls-15 {
+        filter: url(#Exclusion_5);
+      }
+    </style>
+    <filter id="Exclusion_5" x="0" y="-12.001" width="1002" height="1524.002" filterUnits="userSpaceOnUse">
+      <feOffset dx="40" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feFlood flood-opacity="0.149"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-traka_2-2">
+      <rect width="990" height="1500"/>
+    </clipPath>
+  </defs>
+  <g id="traka_2-2" class="cls-1">
+    <rect class="cls-14" width="990" height="1500"/>
+    <path id="Rectangle_68" data-name="Rectangle 68" class="cls-2" d="M0,0H600a0,0,0,0,1,0,0V170a10,10,0,0,1-10,10H10A10,10,0,0,1,0,170V0A0,0,0,0,1,0,0Z" transform="translate(177)"/>
+    <rect id="Rectangle_69" data-name="Rectangle 69" class="cls-2" width="600" height="1038" rx="10" transform="translate(177 220)"/>
+    <path id="Rectangle_70" data-name="Rectangle 70" class="cls-2" d="M10,0H590a10,10,0,0,1,10,10V202a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V10A10,10,0,0,1,10,0Z" transform="translate(177 1298)"/>
+    <g class="cls-15" transform="matrix(1, 0, 0, 1, 0, 0)">
+      <path id="Exclusion_5-2" data-name="Exclusion 5" class="cls-3" d="M-2957,155h-10V130a15.017,15.017,0,0,0-15-15h-125a15.017,15.017,0,0,0-15,15v25h-10V-37a10.011,10.011,0,0,0-10-10h-580a10.011,10.011,0,0,0-10,10V155h-10V130a15.016,15.016,0,0,0-15-15h-125a15.016,15.016,0,0,0-15,15v25h-10V-1345h10l0,25a15.017,15.017,0,0,0,15,15h125a15.017,15.017,0,0,0,15-15v-25h10v170a10.011,10.011,0,0,0,10,10h580a10.011,10.011,0,0,0,10-10v-170h10v25a15.017,15.017,0,0,0,15,15h125a15.018,15.018,0,0,0,15-15v-25h10V155ZM-3107-21a15.017,15.017,0,0,0-15,15V44a15.017,15.017,0,0,0,15,15h125a15.017,15.017,0,0,0,15-15V-6a15.017,15.017,0,0,0-15-15Zm-775,0a15.017,15.017,0,0,0-15,15V44a15.016,15.016,0,0,0,15,15h125a15.016,15.016,0,0,0,15-15V-6a15.017,15.017,0,0,0-15-15Zm775-137a15.017,15.017,0,0,0-15,15v50a15.017,15.017,0,0,0,15,15h125a15.017,15.017,0,0,0,15-15v-50a15.017,15.017,0,0,0-15-15Zm-775,0a15.017,15.017,0,0,0-15,15v50a15.017,15.017,0,0,0,15,15h125a15.017,15.017,0,0,0,15-15v-50a15.017,15.017,0,0,0-15-15Zm160-967a10.011,10.011,0,0,0-10,10V-97a10.011,10.011,0,0,0,10,10h580a10.011,10.011,0,0,0,10-10V-1115a10.011,10.011,0,0,0-10-10Zm615,831a15.017,15.017,0,0,0-15,15v50a15.017,15.017,0,0,0,15,15h125a15.017,15.017,0,0,0,15-15v-50a15.017,15.017,0,0,0-15-15Zm-775,0a15.017,15.017,0,0,0-15,15v50a15.017,15.017,0,0,0,15,15h125a15.017,15.017,0,0,0,15-15v-50a15.017,15.017,0,0,0-15-15Zm775-136a15.016,15.016,0,0,0-15,15v50a15.017,15.017,0,0,0,15,15h125a15.017,15.017,0,0,0,15-15v-50a15.017,15.017,0,0,0-15-15Zm-775,0a15.016,15.016,0,0,0-15,15v50a15.017,15.017,0,0,0,15,15h125a15.017,15.017,0,0,0,15-15v-50a15.016,15.016,0,0,0-15-15Zm775-137a15.017,15.017,0,0,0-15,15v50a15.017,15.017,0,0,0,15,15h125a15.017,15.017,0,0,0,15-15v-50a15.017,15.017,0,0,0-15-15Zm-775,0a15.016,15.016,0,0,0-15,15v50a15.017,15.017,0,0,0,15,15h125a15.017,15.017,0,0,0,15-15v-50a15.016,15.016,0,0,0-15-15Zm775-136a15.017,15.017,0,0,0-15,15v50a15.017,15.017,0,0,0,15,15h125a15.017,15.017,0,0,0,15-15v-50a15.018,15.018,0,0,0-15-15Zm-775,0a15.017,15.017,0,0,0-15,15v50a15.016,15.016,0,0,0,15,15h125a15.016,15.016,0,0,0,15-15v-50a15.017,15.017,0,0,0-15-15Zm775-137a15.016,15.016,0,0,0-15,15v50a15.017,15.017,0,0,0,15,15h125a15.017,15.017,0,0,0,15-15v-50a15.017,15.017,0,0,0-15-15Zm-775,0a15.016,15.016,0,0,0-15,15v50a15.016,15.016,0,0,0,15,15h125a15.016,15.016,0,0,0,15-15v-50a15.016,15.016,0,0,0-15-15Zm775-136a15.017,15.017,0,0,0-15,15v50a15.016,15.016,0,0,0,15,15h125a15.017,15.017,0,0,0,15-15v-50a15.017,15.017,0,0,0-15-15Zm-775,0a15.017,15.017,0,0,0-15,15v50a15.016,15.016,0,0,0,15,15h125a15.016,15.016,0,0,0,15-15v-50a15.017,15.017,0,0,0-15-15Zm775-136a15.017,15.017,0,0,0-15,15v50a15.017,15.017,0,0,0,15,15h125a15.017,15.017,0,0,0,15-15v-50a15.017,15.017,0,0,0-15-15Zm-775,0a15.017,15.017,0,0,0-15,15v50a15.017,15.017,0,0,0,15,15h125a15.017,15.017,0,0,0,15-15v-50a15.017,15.017,0,0,0-15-15Zm775-137a15.017,15.017,0,0,0-15,15v50a15.017,15.017,0,0,0,15,15h125a15.017,15.017,0,0,0,15-15v-50a15.017,15.017,0,0,0-15-15Zm-775,0a15.017,15.017,0,0,0-15,15v50a15.017,15.017,0,0,0,15,15h125a15.017,15.017,0,0,0,15-15v-50a15.017,15.017,0,0,0-15-15Z" transform="translate(3907 1345)"/>
+    </g>
+    <text id="ZACARIAS_Španija_kratki_igrani_12_min_45_sek_PUPPET_Belgija_animirani_6_min_05_sek_VALENTIN_Nemačka_dokumentarni_11_min_20_sek_A_SMALL_DETAIL_Hrvatska_kratki_igrani_22_min_50_sek_ART_S_AUTOMOTIVE_SAD_animirani_6_min_WITH_ALL_THE_WILL_IN_THE_" data-name="ZACARIAS Španija
+kratki igrani | 12 min 45 sek
+
+PUPPET Belgija
+animirani | 6 min 05 sek
+
+VALENTIN Nemačka
+dokumentarni | 11 min 20 sek
+
+A SMALL DETAIL Hrvatska
+kratki igrani | 22 min 50 sek
+
+ART’S AUTOMOTIVE SAD
+animirani | 6 min
+
+WITH ALL THE WILL IN THE " class="cls-4" transform="translate(475.5 466.49)"><tspan x="-104.559" y="0">ZACARIAS</tspan><tspan class="cls-5" y="0"> </tspan><tspan class="cls-6" y="0">Španija</tspan><tspan class="cls-7"><tspan x="-120.13" y="28">kratki igrani | 12 min 45 sek</tspan></tspan><tspan class="cls-8"><tspan x="0" y="56"></tspan></tspan><tspan x="-89.063" y="84">PUPPET</tspan><tspan class="cls-5" y="84"> </tspan><tspan class="cls-6" y="84">Belgija</tspan><tspan class="cls-7"><tspan x="-103.67" y="112">animirani | 6 min 05 sek</tspan></tspan><tspan class="cls-8"><tspan x="0" y="140"></tspan></tspan><tspan x="-114.192" y="168">VALENTIN</tspan><tspan class="cls-5" y="168"> </tspan><tspan class="cls-6" y="168">Nemačka</tspan><tspan class="cls-7"><tspan x="-128.32" y="196">dokumentarni | 11 min 20 sek</tspan></tspan><tspan class="cls-8"><tspan x="0" y="224"></tspan></tspan><tspan x="-151.112" y="252">A SMALL DETAIL</tspan><tspan class="cls-5" y="252"> </tspan><tspan class="cls-6" y="252">Hrvatska</tspan><tspan class="cls-7"><tspan x="-120.13" y="280">kratki igrani | 22 min 50 sek</tspan></tspan><tspan class="cls-8"><tspan x="0" y="308"></tspan></tspan><tspan x="-140.634" y="336">ART’S AUTOMOTIVE</tspan><tspan class="cls-5" y="336"> </tspan><tspan class="cls-6" y="336">SAD</tspan><tspan class="cls-7"><tspan x="-72.9" y="364">animirani | 6 min</tspan></tspan><tspan class="cls-8"><tspan x="0" y="392"></tspan></tspan><tspan x="-290.888" y="420">WITH ALL THE WILL IN THE WORLD</tspan><tspan class="cls-5" y="420"> </tspan><tspan class="cls-6" y="420">Velika Britanija</tspan><tspan class="cls-7"><tspan x="-122.9" y="448">dokumentarni | 12 min 5 sek</tspan><tspan x="0" y="476"></tspan></tspan><tspan x="-114.192" y="504">LORIS IS FINE</tspan><tspan class="cls-5" y="504"> </tspan><tspan class="cls-6" y="504">Italija</tspan><tspan class="cls-7"><tspan x="-120.13" y="532">kratki igrani | 22 min 25 sek</tspan></tspan><tspan class="cls-8"><tspan x="0" y="560"></tspan></tspan><tspan x="-167.102" y="588">THE TASTE OF TOMATO</tspan><tspan class="cls-5" y="588"> </tspan><tspan class="cls-6" y="588">Liban</tspan><tspan class="cls-7"><tspan x="-103.67" y="616">animirani | 9 min 50 sek</tspan></tspan><tspan class="cls-8"><tspan x="0" y="644"></tspan></tspan><tspan x="-133.588" y="672">HER NAME WAS</tspan><tspan class="cls-5" y="672"> </tspan><tspan class="cls-6" y="672">Belgija</tspan><tspan class="cls-7"><tspan x="-89.36" y="700">kratki igrani | 18 min</tspan></tspan></text>
+    <text id="TREĆA_PROJEKCIJA_FILMOVA_U_TAKMIČARSKOM_PROGRAMU" data-name="TREĆA PROJEKCIJA FILMOVA U 
+TAKMIČARSKOM PROGRAMU" class="cls-9" transform="translate(475.5 267.127)"><tspan x="-231.627" y="0">TREĆA PROJEKCIJA FILMOVA U </tspan><tspan x="-208.824" y="34">TAKMIČARSKOM PROGRAMU</tspan></text>
+    <text id="_trajanje_projekcije:_2_sat_01_minuta_20_sekundi_" data-name="(trajanje projekcije: 2 sat 01 minuta 20 sekundi)" class="cls-10" transform="translate(475 330.657)"><tspan x="-163.048" y="0">(trajanje projekcije: 2 sat 01 minuta 20 sekundi)</tspan></text>
+    <text id="PAUZA" class="cls-9" transform="translate(475 145.263)"><tspan x="-49.368" y="0">PAUZA</tspan></text>
+    <text id="AFTER_PARTY_OPCIONO_" data-name="AFTER PARTY (OPCIONO)" class="cls-11" transform="translate(311 1386)"><tspan x="0" y="0">AFTER PARTY (OPCIONO)</tspan></text>
+    <g id="Group_4" data-name="Group 4" transform="translate(-1 31)">
+      <text id="_19:00_-20:00_" data-name="19:00 -20:00 " class="cls-12" transform="translate(86 116)"><tspan x="-64.372" y="0">19:00 -20:00 </tspan></text>
+      <text id="h" class="cls-13" transform="translate(150 102)"><tspan x="-4.424" y="0">h</tspan></text>
+      <text id="h-2" data-name="h" class="cls-13" transform="translate(81 102)"><tspan x="-4.424" y="0">h</tspan></text>
+    </g>
+    <g id="Group_5" data-name="Group 5" transform="translate(-4 -2)">
+      <text id="_20:00_-22:00_" data-name="20:00 -22:00 " class="cls-12" transform="translate(89 286)"><tspan x="-64.372" y="0">20:00 -22:00 </tspan></text>
+      <text id="h-3" data-name="h" class="cls-13" transform="translate(153 272)"><tspan x="-4.424" y="0">h</tspan></text>
+      <text id="h-4" data-name="h" class="cls-13" transform="translate(84 272)"><tspan x="-4.424" y="0">h</tspan></text>
+    </g>
+    <g id="Group_6" data-name="Group 6" transform="translate(-4 1087)">
+      <text id="od_22:00_" data-name="od 22:00 " class="cls-12" transform="translate(89 286)"><tspan x="-44.517" y="0">od 22:00 </tspan></text>
+      <text id="h-5" data-name="h" class="cls-13" transform="translate(134 272)"><tspan x="-4.424" y="0">h</tspan></text>
+    </g>
+  </g>
+</svg>

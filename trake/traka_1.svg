@@ -1,0 +1,135 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 990 1500">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-traka_1);
+      }
+
+      .cls-2 {
+        fill: rgba(88,86,69,0.43);
+      }
+
+      .cls-3 {
+        fill: rgba(0,0,0,0.8);
+      }
+
+      .cls-15, .cls-16, .cls-4 {
+        fill: rgba(21,21,21,0.85);
+      }
+
+      .cls-4 {
+        font-size: 26px;
+      }
+
+      .cls-11, .cls-12, .cls-13, .cls-15, .cls-16, .cls-4 {
+        font-family: DINNextLTPro-Bold, DIN Next LT Pro;
+        font-weight: 700;
+      }
+
+      .cls-10, .cls-12, .cls-14, .cls-5, .cls-6 {
+        fill: #e5e5e5;
+      }
+
+      .cls-6, .cls-9 {
+        font-size: 20px;
+      }
+
+      .cls-10, .cls-14, .cls-6, .cls-7, .cls-9 {
+        font-family: DINNextLTPro-Regular, DIN Next LT Pro;
+      }
+
+      .cls-10, .cls-6, .cls-7, .cls-9 {
+        font-weight: 400;
+      }
+
+      .cls-7, .cls-8, .cls-9 {
+        fill: #fff;
+      }
+
+      .cls-11 {
+        fill: rgba(21,21,21,0.7);
+      }
+
+      .cls-11, .cls-13 {
+        font-size: 33px;
+      }
+
+      .cls-12 {
+        font-size: 35px;
+      }
+
+      .cls-12, .cls-16 {
+        text-decoration: underline;
+      }
+
+      .cls-13 {
+        fill: rgba(21,21,21,0.75);
+      }
+
+      .cls-14, .cls-16 {
+        font-size: 16px;
+      }
+
+      .cls-15 {
+        font-size: 22px;
+      }
+
+      .cls-17 {
+        filter: url(#Exclusion_8);
+      }
+    </style>
+    <filter id="Exclusion_8" x="0" y="-12.001" width="1002" height="1524.002" filterUnits="userSpaceOnUse">
+      <feOffset dx="40" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feFlood flood-opacity="0.149"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-traka_1">
+      <rect width="990" height="1500"/>
+    </clipPath>
+  </defs>
+  <g id="traka_1" class="cls-1">
+    <path id="Rectangle_75" data-name="Rectangle 75" class="cls-2" d="M10,0H590a10,10,0,0,1,10,10V180a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V10A10,10,0,0,1,10,0Z" transform="translate(175 1320)"/>
+    <path id="Rectangle_73" data-name="Rectangle 73" class="cls-2" d="M0,0H600a0,0,0,0,1,0,0V170a10,10,0,0,1-10,10H10A10,10,0,0,1,0,170V0A0,0,0,0,1,0,0Z" transform="translate(175)"/>
+    <rect id="Rectangle_74" data-name="Rectangle 74" class="cls-2" width="600" height="1060" rx="10" transform="translate(175 220)"/>
+    <g class="cls-17" transform="matrix(1, 0, 0, 1, 0, 0)">
+      <path id="Exclusion_8-2" data-name="Exclusion 8" class="cls-3" d="M464,155H454V130a15.017,15.017,0,0,0-15-15H314a15.017,15.017,0,0,0-15,15v25H289V-15a10.011,10.011,0,0,0-10-10H-301a10.011,10.011,0,0,0-10,10V155h-10V130a15.017,15.017,0,0,0-15-15H-461a15.017,15.017,0,0,0-15,15v25h-10V-1345h10v25a15.017,15.017,0,0,0,15,15h125a15.017,15.017,0,0,0,15-15v-25h10v170a10.012,10.012,0,0,0,10,10H279a10.012,10.012,0,0,0,10-10v-170h10v25a15.017,15.017,0,0,0,15,15H439a15.017,15.017,0,0,0,15-15v-25h10V155ZM314-21A15.017,15.017,0,0,0,299-6V44a15.017,15.017,0,0,0,15,15H439a15.016,15.016,0,0,0,15-15V-6a15.017,15.017,0,0,0-15-15Zm-775,0A15.017,15.017,0,0,0-476-6V44a15.017,15.017,0,0,0,15,15h125a15.016,15.016,0,0,0,15-15V-6a15.017,15.017,0,0,0-15-15Zm160-1104a10.011,10.011,0,0,0-10,10V-75a10.012,10.012,0,0,0,10,10H279a10.012,10.012,0,0,0,10-10V-1115a10.011,10.011,0,0,0-10-10ZM314-158a15.017,15.017,0,0,0-15,15v50a15.017,15.017,0,0,0,15,15H439a15.017,15.017,0,0,0,15-15v-50a15.017,15.017,0,0,0-15-15Zm-775,0a15.017,15.017,0,0,0-15,15v50a15.017,15.017,0,0,0,15,15h125a15.017,15.017,0,0,0,15-15v-50a15.017,15.017,0,0,0-15-15ZM314-294a15.017,15.017,0,0,0-15,15v50a15.017,15.017,0,0,0,15,15H439a15.017,15.017,0,0,0,15-15v-50a15.017,15.017,0,0,0-15-15Zm-775,0a15.017,15.017,0,0,0-15,15v50a15.017,15.017,0,0,0,15,15h125a15.017,15.017,0,0,0,15-15v-50a15.017,15.017,0,0,0-15-15ZM314-430a15.017,15.017,0,0,0-15,15v50a15.017,15.017,0,0,0,15,15H439a15.017,15.017,0,0,0,15-15v-50a15.017,15.017,0,0,0-15-15Zm-775,0a15.017,15.017,0,0,0-15,15v50a15.017,15.017,0,0,0,15,15h125a15.017,15.017,0,0,0,15-15v-50a15.017,15.017,0,0,0-15-15ZM314-567a15.017,15.017,0,0,0-15,15v50a15.017,15.017,0,0,0,15,15H439a15.017,15.017,0,0,0,15-15v-50a15.016,15.016,0,0,0-15-15Zm-775,0a15.017,15.017,0,0,0-15,15v50a15.017,15.017,0,0,0,15,15h125a15.017,15.017,0,0,0,15-15v-50a15.016,15.016,0,0,0-15-15ZM314-703a15.017,15.017,0,0,0-15,15v50a15.017,15.017,0,0,0,15,15H439a15.016,15.016,0,0,0,15-15v-50a15.016,15.016,0,0,0-15-15Zm-775,0a15.017,15.017,0,0,0-15,15v50a15.017,15.017,0,0,0,15,15h125a15.016,15.016,0,0,0,15-15v-50a15.016,15.016,0,0,0-15-15ZM314-840a15.017,15.017,0,0,0-15,15v50a15.017,15.017,0,0,0,15,15H439a15.016,15.016,0,0,0,15-15v-50a15.017,15.017,0,0,0-15-15Zm-775,0a15.017,15.017,0,0,0-15,15v50a15.017,15.017,0,0,0,15,15h125a15.016,15.016,0,0,0,15-15v-50a15.017,15.017,0,0,0-15-15ZM314-976a15.017,15.017,0,0,0-15,15v50a15.017,15.017,0,0,0,15,15H439a15.017,15.017,0,0,0,15-15v-50a15.017,15.017,0,0,0-15-15Zm-775,0a15.017,15.017,0,0,0-15,15v50a15.017,15.017,0,0,0,15,15h125a15.017,15.017,0,0,0,15-15v-50a15.017,15.017,0,0,0-15-15Zm775-136a15.017,15.017,0,0,0-15,15v50a15.017,15.017,0,0,0,15,15H439a15.017,15.017,0,0,0,15-15v-50a15.017,15.017,0,0,0-15-15Zm-775,0a15.017,15.017,0,0,0-15,15v50a15.017,15.017,0,0,0,15,15h125a15.017,15.017,0,0,0,15-15v-50a15.017,15.017,0,0,0-15-15Zm775-137a15.017,15.017,0,0,0-15,15v50a15.017,15.017,0,0,0,15,15H439a15.017,15.017,0,0,0,15-15v-50a15.017,15.017,0,0,0-15-15Zm-775,0a15.017,15.017,0,0,0-15,15v50a15.017,15.017,0,0,0,15,15h125a15.017,15.017,0,0,0,15-15v-50a15.017,15.017,0,0,0-15-15Z" transform="translate(486 1345)"/>
+    </g>
+    <text id="GILLS_Srbija_kratki_igrani_18min_VS._SANTA_Španija_animirani_4min_MUSTARD_SEED_Kanada_kratki_igrani_8_min_50_sek_AS_FAR_AS_OUR_FEET_TAKE_US_Hrvatska_dokumentarni_34_min_NEXT_DOOR_Nemačka_kratki_igrani_8_min_50_sek_BAD_TUNA_SAD_animirani_4" data-name="GILLS Srbija
+kratki igrani | 18min
+
+VS. SANTA Španija
+animirani | 4min
+
+MUSTARD SEED Kanada
+kratki igrani | 8 min 50 sek
+
+AS FAR AS OUR FEET TAKE US Hrvatska 
+dokumentarni | 34 min
+
+NEXT DOOR Nemačka
+kratki igrani | 8 min 50 sek
+
+BAD TUNA SAD
+animirani | 4" class="cls-4" transform="translate(476.5 599.49)"><tspan x="-71.084" y="0">GILLS</tspan><tspan class="cls-5" y="0" xml:space="preserve"> Srbija</tspan><tspan class="cls-6"><tspan x="-86.96" y="28">kratki igrani | 18min</tspan></tspan><tspan class="cls-7"><tspan x="0" y="56"></tspan></tspan><tspan x="-106.535" y="84">VS. SANTA</tspan><tspan class="cls-8" y="84"> </tspan><tspan class="cls-5" y="84">Španija</tspan><tspan class="cls-6"><tspan x="-70.5" y="112">animirani | 4min</tspan></tspan><tspan class="cls-9"><tspan x="0" y="140"></tspan></tspan><tspan x="-136.812" y="168">MUSTARD SEED</tspan><tspan class="cls-8" y="168"> </tspan><tspan class="cls-5" y="168">Kanada</tspan><tspan class="cls-6"><tspan x="-114.71" y="196">kratki igrani | 8 min 50 sek</tspan></tspan><tspan class="cls-9"><tspan x="0" y="224"></tspan></tspan><tspan x="-232.102" y="252">AS FAR AS OUR FEET TAKE US</tspan><tspan class="cls-8" y="252"> </tspan><tspan class="cls-5" y="252">Hrvatska</tspan><tspan class="cls-10" y="252"> </tspan><tspan class="cls-6"><tspan x="-97.55" y="280">dokumentarni | 34 min</tspan></tspan><tspan class="cls-9"><tspan x="0" y="308"></tspan></tspan><tspan x="-122.629" y="336">NEXT DOOR</tspan><tspan class="cls-8" y="336"> </tspan><tspan class="cls-5" y="336">Nemačka</tspan><tspan class="cls-6"><tspan x="-114.71" y="364">kratki igrani | 8 min 50 sek</tspan></tspan><tspan class="cls-9"><tspan x="0" y="392"></tspan></tspan><tspan x="-87.087" y="420">BAD TUNA</tspan><tspan class="cls-8" y="420"> </tspan><tspan class="cls-5" y="420">SAD</tspan><tspan class="cls-6"><tspan x="-98.25" y="448">animirani | 4 min 5 sek</tspan></tspan><tspan class="cls-9"><tspan x="0" y="476"></tspan></tspan><tspan x="-171.288" y="504">THE SUN OF IPANEMA</tspan><tspan class="cls-8" y="504"> </tspan><tspan class="cls-5" y="504">Španija</tspan><tspan class="cls-6"><tspan x="-152.38" y="532">kratki igrani | 15 minuta 00 sekundi</tspan></tspan><tspan class="cls-9"><tspan x="0" y="560"></tspan></tspan><tspan x="-124.722" y="588">PHOTOCRAT</tspan><tspan class="cls-8" y="588"> </tspan><tspan class="cls-5" y="588">Slovačka</tspan><tspan class="cls-6"><tspan x="-128.32" y="616">dokumentarni | 25 min 55 sek</tspan></tspan></text>
+    <text id="CEREMONIJA_OTVARANJA_FESTIVALA" data-name="CEREMONIJA OTVARANJA FESTIVALA" class="cls-11" transform="translate(476 298.263)"><tspan x="-274.346" y="0">CEREMONIJA OTVARANJA FESTIVALA</tspan></text>
+    <text id="PRVI_DAN_FESTIVALA_petak_21._decembar_2018." data-name="PRVI DAN FESTIVALA
+ petak, 21. decembar 2018." class="cls-12" transform="translate(475 34.18)"><tspan x="-164.395" y="0">PRVI DAN FESTIVALA</tspan><tspan x="-208.25" y="34" xml:space="preserve"> petak, 21. decembar 2018.</tspan></text>
+    <text id="PRVA_PROJEKCIJA_FILMOVA_U_TAKMIČARSKOM_PROGRAMU" data-name="PRVA PROJEKCIJA FILMOVA U 
+TAKMIČARSKOM PROGRAMU" class="cls-13" transform="translate(254 401.127)"><tspan x="0" y="0">PRVA PROJEKCIJA FILMOVA U </tspan><tspan x="0" y="34">TAKMIČARSKOM PROGRAMU</tspan></text>
+    <text id="_trajanje_projekcije:_1_sat_58_minuta_40_sekundi_" data-name="(trajanje projekcije: 1 sat 58 minuta 40 sekundi)" class="cls-14" transform="translate(477 464.657)"><tspan x="-163.048" y="0">(trajanje projekcije: 1 sat 58 minuta 40 sekundi)</tspan></text>
+    <text id="ŽURKA_KOKTEL_POVODOM_OTVARANJA_FESTIVALA" data-name="ŽURKA/KOKTEL POVODOM 
+OTVARANJA FESTIVALA" class="cls-13" transform="translate(475 1361)"><tspan x="-198.363" y="0">ŽURKA/KOKTEL POVODOM </tspan><tspan x="-174.867" y="34">OTVARANJA FESTIVALA</tspan></text>
+    <text id="_19:30_-20:00_" data-name="19:30 -20:00 " class="cls-15" transform="translate(87 285)"><tspan x="-64.372" y="0">19:30 -20:00 </tspan></text>
+    <text id="h" class="cls-16" transform="translate(151 270)"><tspan x="-4.424" y="0">h</tspan></text>
+    <text id="_20:00_-22:00_" data-name="20:00 -22:00 " class="cls-15" transform="translate(87 420)"><tspan x="-64.372" y="0">20:00 -22:00 </tspan></text>
+    <text id="h-2" data-name="h" class="cls-16" transform="translate(150 405)"><tspan x="-4.424" y="0">h</tspan></text>
+    <g id="Hours" transform="translate(-379 843)">
+      <text id="od_20:00_" data-name="od 20:00 " class="cls-15" transform="translate(466 534)"><tspan x="-44.517" y="0">od 20:00 </tspan></text>
+      <text id="h-3" data-name="h" class="cls-16" transform="translate(509 519)"><tspan x="-4.424" y="0">h</tspan></text>
+    </g>
+    <text id="h-4" data-name="h" class="cls-16" transform="translate(82 270)"><tspan x="-4.424" y="0">h</tspan></text>
+    <text id="h-5" data-name="h" class="cls-16" transform="translate(82 405)"><tspan x="-4.424" y="0">h</tspan></text>
+  </g>
+</svg>

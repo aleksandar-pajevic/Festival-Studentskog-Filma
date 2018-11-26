@@ -1,0 +1,135 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 990 1500">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-traka_2-1);
+      }
+
+      .cls-2 {
+        fill: rgba(88,86,69,0.43);
+      }
+
+      .cls-3 {
+        fill: rgba(0,0,0,0.8);
+      }
+
+      .cls-13, .cls-14, .cls-4 {
+        fill: rgba(21,21,21,0.85);
+      }
+
+      .cls-4 {
+        font-size: 26px;
+      }
+
+      .cls-10, .cls-11, .cls-13, .cls-14, .cls-4 {
+        font-family: DINNextLTPro-Bold, DIN Next LT Pro;
+        font-weight: 700;
+      }
+
+      .cls-5, .cls-8, .cls-9 {
+        fill: #fff;
+      }
+
+      .cls-12, .cls-5, .cls-7, .cls-8 {
+        font-family: DINNextLTPro-Regular, DIN Next LT Pro;
+      }
+
+      .cls-5, .cls-7, .cls-8 {
+        font-weight: 400;
+      }
+
+      .cls-11, .cls-12, .cls-6, .cls-7 {
+        fill: #e5e5e5;
+      }
+
+      .cls-7, .cls-8 {
+        font-size: 20px;
+      }
+
+      .cls-10 {
+        fill: rgba(21,21,21,0.75);
+        font-size: 33px;
+      }
+
+      .cls-11 {
+        font-size: 35px;
+      }
+
+      .cls-11, .cls-14 {
+        text-decoration: underline;
+      }
+
+      .cls-12, .cls-14 {
+        font-size: 16px;
+      }
+
+      .cls-13 {
+        font-size: 22px;
+      }
+
+      .cls-15 {
+        fill: #dcdddf;
+      }
+
+      .cls-16 {
+        filter: url(#Exclusion_6);
+      }
+    </style>
+    <filter id="Exclusion_6" x="0" y="-12.001" width="1002" height="1524.002" filterUnits="userSpaceOnUse">
+      <feOffset dx="40" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feFlood flood-opacity="0.149"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-traka_2-1">
+      <rect width="990" height="1500"/>
+    </clipPath>
+  </defs>
+  <g id="traka_2-1" class="cls-1">
+    <rect class="cls-15" width="990" height="1500"/>
+    <path id="Rectangle_71" data-name="Rectangle 71" class="cls-2" d="M0,0H600a0,0,0,0,1,0,0V154a10,10,0,0,1-10,10H10A10,10,0,0,1,0,154V0A0,0,0,0,1,0,0Z" transform="translate(175)"/>
+    <path id="Rectangle_72" data-name="Rectangle 72" class="cls-2" d="M10,0H590a10,10,0,0,1,10,10V1296a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V10A10,10,0,0,1,10,0Z" transform="translate(175 204)"/>
+    <g class="cls-16" transform="matrix(1, 0, 0, 1, 0, 0)">
+      <path id="Exclusion_6-2" data-name="Exclusion 6" class="cls-3" d="M-1309,155h-10V130a14.906,14.906,0,0,0-4.393-10.607A14.9,14.9,0,0,0-1334,115h-125a14.9,14.9,0,0,0-10.607,4.393A14.906,14.906,0,0,0-1474,130v25h-10V-1131a10.011,10.011,0,0,0-10-10h-580a10.011,10.011,0,0,0-10,10V155h-10V130a14.906,14.906,0,0,0-4.394-10.607A14.9,14.9,0,0,0-2109,115h-125a14.905,14.905,0,0,0-10.607,4.393A14.906,14.906,0,0,0-2249,130v25h-10V-1345h10v25a14.9,14.9,0,0,0,4.393,10.607A14.906,14.906,0,0,0-2234-1305h125a14.9,14.9,0,0,0,10.606-4.394A14.9,14.9,0,0,0-2094-1320v-25h10v154a10.011,10.011,0,0,0,10,10h580a10.011,10.011,0,0,0,10-10v-154h10v25a14.9,14.9,0,0,0,4.394,10.607A14.9,14.9,0,0,0-1459-1305h125a14.9,14.9,0,0,0,10.607-4.394A14.9,14.9,0,0,0-1319-1320v-25h10V155ZM-1459-21a14.9,14.9,0,0,0-10.607,4.393A14.906,14.906,0,0,0-1474-6V44a14.9,14.9,0,0,0,4.394,10.606A14.9,14.9,0,0,0-1459,59h125a14.9,14.9,0,0,0,10.607-4.394A14.9,14.9,0,0,0-1319,44V-6a14.905,14.905,0,0,0-4.393-10.607A14.9,14.9,0,0,0-1334-21Zm-775,0a14.905,14.905,0,0,0-10.607,4.393A14.905,14.905,0,0,0-2249-6V44a14.9,14.9,0,0,0,4.393,10.606A14.906,14.906,0,0,0-2234,59h125a14.9,14.9,0,0,0,10.606-4.394A14.9,14.9,0,0,0-2094,44V-6a14.906,14.906,0,0,0-4.394-10.607A14.9,14.9,0,0,0-2109-21Zm775-137a14.9,14.9,0,0,0-10.607,4.394A14.9,14.9,0,0,0-1474-143v50a14.9,14.9,0,0,0,4.394,10.606A14.9,14.9,0,0,0-1459-78h125a14.9,14.9,0,0,0,10.607-4.394A14.9,14.9,0,0,0-1319-93v-50a14.9,14.9,0,0,0-4.393-10.606A14.9,14.9,0,0,0-1334-158Zm-775,0a14.9,14.9,0,0,0-10.607,4.394A14.9,14.9,0,0,0-2249-143v50a14.9,14.9,0,0,0,4.393,10.606A14.906,14.906,0,0,0-2234-78h125a14.9,14.9,0,0,0,10.606-4.394A14.9,14.9,0,0,0-2094-93v-50a14.9,14.9,0,0,0-4.394-10.606A14.9,14.9,0,0,0-2109-158Zm775-136a14.9,14.9,0,0,0-10.607,4.393A14.906,14.906,0,0,0-1474-279v50a14.9,14.9,0,0,0,4.394,10.607A14.9,14.9,0,0,0-1459-214h125a14.9,14.9,0,0,0,10.607-4.394A14.9,14.9,0,0,0-1319-229v-50a14.906,14.906,0,0,0-4.393-10.607A14.9,14.9,0,0,0-1334-294Zm-775,0a14.906,14.906,0,0,0-10.607,4.393A14.906,14.906,0,0,0-2249-279v50a14.9,14.9,0,0,0,4.393,10.607A14.906,14.906,0,0,0-2234-214h125a14.9,14.9,0,0,0,10.606-4.394A14.9,14.9,0,0,0-2094-229v-50a14.906,14.906,0,0,0-4.394-10.607A14.9,14.9,0,0,0-2109-294Zm775-136a14.9,14.9,0,0,0-10.607,4.393A14.906,14.906,0,0,0-1474-415v50a14.9,14.9,0,0,0,4.394,10.606A14.9,14.9,0,0,0-1459-350h125a14.9,14.9,0,0,0,10.607-4.394A14.9,14.9,0,0,0-1319-365v-50a14.905,14.905,0,0,0-4.393-10.607A14.9,14.9,0,0,0-1334-430Zm-775,0a14.905,14.905,0,0,0-10.607,4.393A14.905,14.905,0,0,0-2249-415v50a14.9,14.9,0,0,0,4.393,10.606A14.906,14.906,0,0,0-2234-350h125a14.9,14.9,0,0,0,10.606-4.394A14.9,14.9,0,0,0-2094-365v-50a14.906,14.906,0,0,0-4.394-10.607A14.9,14.9,0,0,0-2109-430Zm775-137a14.9,14.9,0,0,0-10.607,4.394A14.9,14.9,0,0,0-1474-552v50a14.9,14.9,0,0,0,4.394,10.606A14.9,14.9,0,0,0-1459-487h125a14.9,14.9,0,0,0,10.607-4.394A14.9,14.9,0,0,0-1319-502v-50a14.9,14.9,0,0,0-4.393-10.605A14.9,14.9,0,0,0-1334-567Zm-775,0a14.9,14.9,0,0,0-10.607,4.394A14.9,14.9,0,0,0-2249-552v50a14.9,14.9,0,0,0,4.393,10.606A14.906,14.906,0,0,0-2234-487h125a14.9,14.9,0,0,0,10.606-4.394A14.9,14.9,0,0,0-2094-502v-50a14.9,14.9,0,0,0-4.394-10.605A14.9,14.9,0,0,0-2109-567Zm775-136a14.9,14.9,0,0,0-10.607,4.393A14.9,14.9,0,0,0-1474-688v50a14.9,14.9,0,0,0,4.394,10.607A14.9,14.9,0,0,0-1459-623h125a14.905,14.905,0,0,0,10.607-4.393A14.9,14.9,0,0,0-1319-638v-50a14.9,14.9,0,0,0-4.393-10.607A14.9,14.9,0,0,0-1334-703Zm-775,0a14.9,14.9,0,0,0-10.607,4.393A14.9,14.9,0,0,0-2249-688v50a14.9,14.9,0,0,0,4.393,10.607A14.905,14.905,0,0,0-2234-623h125a14.9,14.9,0,0,0,10.606-4.393A14.9,14.9,0,0,0-2094-638v-50a14.9,14.9,0,0,0-4.394-10.607A14.9,14.9,0,0,0-2109-703Zm775-137a14.9,14.9,0,0,0-10.607,4.394A14.9,14.9,0,0,0-1474-825v50a14.9,14.9,0,0,0,4.394,10.606A14.9,14.9,0,0,0-1459-760h125a14.9,14.9,0,0,0,10.607-4.394A14.9,14.9,0,0,0-1319-775v-50a14.9,14.9,0,0,0-4.393-10.607A14.9,14.9,0,0,0-1334-840Zm-775,0a14.9,14.9,0,0,0-10.607,4.394A14.9,14.9,0,0,0-2249-825v50a14.9,14.9,0,0,0,4.393,10.606A14.9,14.9,0,0,0-2234-760h125a14.9,14.9,0,0,0,10.606-4.394A14.9,14.9,0,0,0-2094-775v-50a14.9,14.9,0,0,0-4.394-10.607A14.9,14.9,0,0,0-2109-840Zm775-136a14.9,14.9,0,0,0-10.607,4.393A14.906,14.906,0,0,0-1474-961v50a14.9,14.9,0,0,0,4.394,10.607A14.9,14.9,0,0,0-1459-896h125a14.9,14.9,0,0,0,10.607-4.394A14.9,14.9,0,0,0-1319-911v-50a14.906,14.906,0,0,0-4.393-10.607A14.9,14.9,0,0,0-1334-976Zm-775,0a14.905,14.905,0,0,0-10.607,4.393A14.906,14.906,0,0,0-2249-961v50a14.9,14.9,0,0,0,4.393,10.607A14.906,14.906,0,0,0-2234-896h125a14.9,14.9,0,0,0,10.606-4.394A14.9,14.9,0,0,0-2094-911v-50a14.906,14.906,0,0,0-4.394-10.607A14.9,14.9,0,0,0-2109-976Zm775-136a14.9,14.9,0,0,0-10.607,4.394A14.9,14.9,0,0,0-1474-1097v50a14.9,14.9,0,0,0,4.394,10.606A14.9,14.9,0,0,0-1459-1032h125a14.9,14.9,0,0,0,10.607-4.394A14.9,14.9,0,0,0-1319-1047v-50a14.9,14.9,0,0,0-4.393-10.606A14.9,14.9,0,0,0-1334-1112Zm-775,0a14.905,14.905,0,0,0-10.607,4.394A14.9,14.9,0,0,0-2249-1097v50a14.9,14.9,0,0,0,4.393,10.606A14.905,14.905,0,0,0-2234-1032h125a14.9,14.9,0,0,0,10.606-4.394A14.9,14.9,0,0,0-2094-1047v-50a14.9,14.9,0,0,0-4.394-10.606A14.9,14.9,0,0,0-2109-1112Zm775-137a14.9,14.9,0,0,0-10.607,4.393A14.906,14.906,0,0,0-1474-1234v50a14.9,14.9,0,0,0,4.394,10.607A14.9,14.9,0,0,0-1459-1169h125a14.9,14.9,0,0,0,10.607-4.394A14.905,14.905,0,0,0-1319-1184v-50a14.906,14.906,0,0,0-4.393-10.607A14.9,14.9,0,0,0-1334-1249Zm-775,0a14.9,14.9,0,0,0-10.607,4.393A14.906,14.906,0,0,0-2249-1234v50a14.9,14.9,0,0,0,4.393,10.607A14.906,14.906,0,0,0-2234-1169h125a14.9,14.9,0,0,0,10.606-4.394A14.9,14.9,0,0,0-2094-1184v-50a14.906,14.906,0,0,0-4.394-10.607A14.9,14.9,0,0,0-2109-1249Z" transform="translate(2259 1345)"/>
+    </g>
+    <text id="DAISY_Tajvan_animirani_9_min_40_sek_NOTHING_SERIOUS_Mađarska_kratki_igrani_21_min_30_sek_JUAN_S_SPEECH_Kanada_dokumentarni_11_min_40_sek_PSICOLAPSE_Španija_animirani_7_min_40_sek_WHERE_THINGS_WHERE_PEOPLE_DISSAPEAR_Litvanija_kratki_igrani_21m" data-name="DAISY Tajvan
+animirani | 9 min 40 sek
+
+NOTHING SERIOUS Mađarska
+kratki igrani | 21 min 30 sek
+
+JUAN’S SPEECH Kanada
+dokumentarni | 11 min 40 sek
+
+PSICOLAPSE Španija
+animirani | 7 min 40 sek
+
+WHERE THINGS WHERE PEOPLE DISSAPEAR
+Litvanija
+kratki igrani | 21m" class="cls-4" transform="translate(463.5 645.49)"><tspan x="-75.114" y="0">DAISY</tspan><tspan class="cls-5" y="0"> </tspan><tspan class="cls-6" y="0">Tajvan</tspan><tspan class="cls-7"><tspan x="-103.67" y="28">animirani | 9 min 40 sek</tspan></tspan><tspan class="cls-8"><tspan x="0" y="56"></tspan></tspan><tspan x="-166.283" y="84">NOTHING SERIOUS</tspan><tspan class="cls-5" y="84"> </tspan><tspan class="cls-6" y="84">Mađarska</tspan><tspan class="cls-7"><tspan x="-120.13" y="112">kratki igrani | 21 min 30 sek</tspan></tspan><tspan class="cls-8"><tspan x="0" y="140"></tspan></tspan><tspan x="-138.021" y="168">JUAN’S SPEECH</tspan><tspan class="cls-9" y="168"> </tspan><tspan class="cls-6" y="168">Kanada</tspan><tspan class="cls-7"><tspan x="-128.32" y="196">dokumentarni | 11 min 40 sek</tspan></tspan><tspan class="cls-8"><tspan x="0" y="224"></tspan></tspan><tspan x="-119.106" y="252">PSICOLAPSE</tspan><tspan class="cls-9" y="252"> </tspan><tspan class="cls-6" y="252">Španija</tspan><tspan class="cls-7"><tspan x="-103.67" y="280">animirani | 7 min 40 sek</tspan></tspan><tspan class="cls-8"><tspan x="0" y="308"></tspan></tspan><tspan x="-253.838" y="336">WHERE THINGS WHERE PEOPLE DISSAPEAR</tspan><tspan class="cls-6"><tspan x="-49.348" y="364">Litvanija</tspan></tspan><tspan class="cls-7"><tspan x="-115.33" y="392">kratki igrani | 21min 30sek</tspan><tspan x="0" y="420"></tspan></tspan><tspan x="-171.47" y="448">ALL THAT GROWS</tspan><tspan class="cls-9" y="448"> </tspan><tspan class="cls-6" y="448">Kina, Srbija</tspan><tspan class="cls-7"><tspan x="-128.32" y="476">dokumentarni | 11 min 25 sek</tspan><tspan x="0" y="504"></tspan></tspan><tspan x="-104.442" y="532">HALBO’S HAT</tspan><tspan class="cls-6" y="532" xml:space="preserve"> SAD</tspan><tspan class="cls-7"><tspan x="-103.67" y="560">animirani | 1 min 05 sek</tspan></tspan><tspan class="cls-8"><tspan x="0" y="588"></tspan></tspan><tspan x="-99.749" y="616">CENSORED</tspan><tspan class="cls-9" y="616"> </tspan><tspan class="cls-6" y="616">Brazil</tspan><tspan class="cls-7"><tspan x="-114.71" y="644">kratki igrani | 9 min 10 sek</tspan></tspan><tspan class="cls-8"><tspan x="0" y="672"></tspan></tspan><tspan x="-213.642" y="700">THE CHILDREN DAR BOUIDAR</tspan><tspan class="cls-9" y="700"> </tspan><tspan class="cls-6" y="700">Maroko</tspan><tspan class="cls-7"><tspan x="-128.32" y="728">dokumentarni | 12 min 45 sek</tspan></tspan><tspan class="cls-8"><tspan x="0" y="756"></tspan></tspan><tspan x="-113.074" y="784">RAPE CARD</tspan><tspan class="cls-9" y="784"> </tspan><tspan class="cls-6" y="784">Kanada</tspan><tspan class="cls-7"><tspan x="-120.13" y="812">kratki igrani | 14 min 45 sek</tspan></tspan></text>
+    <text id="RADIONICE_PREDVIÐENE_FESTIVALSKIM_PROGRAMOM" data-name="RADIONICE PREDVIÐENE FESTIVALSKIM 
+PROGRAMOM" class="cls-10" transform="translate(476 263.263)"><tspan x="-294.36" y="0">RADIONICE PREDVIÐENE FESTIVALSKIM </tspan><tspan x="-97.399" y="34">PROGRAMOM</tspan></text>
+    <text id="DRUGI_DAN_FESTIVALA_subota_22._decembar_2018." data-name="DRUGI DAN FESTIVALA
+ subota, 22. decembar 2018." class="cls-11" transform="translate(475 110.18)"><tspan x="-176.942" y="0">DRUGI DAN FESTIVALA</tspan><tspan x="-217.455" y="34" xml:space="preserve"> subota, 22. decembar 2018.</tspan></text>
+    <text id="DRUGA_PROJEKCIJA_FILMOVA_U_TAKMIČARSKOM_PROGRAMU" data-name="DRUGA PROJEKCIJA FILMOVA U 
+TAKMIČARSKOM PROGRAMU" class="cls-10" transform="translate(482 522.127)"><tspan x="-234.548" y="0">DRUGA PROJEKCIJA FILMOVA U </tspan><tspan x="-208.824" y="34">TAKMIČARSKOM PROGRAMU</tspan></text>
+    <text id="_trajanje_projekcije:_2_sat_00_minuta_15_sekundi_" data-name="(trajanje projekcije: 2 sat 00 minuta 15 sekundi)" class="cls-12" transform="translate(475 585.657)"><tspan x="-163.048" y="0">(trajanje projekcije: 2 sat 00 minuta 15 sekundi)</tspan></text>
+    <text id="PAUZA" class="cls-10" transform="translate(475 405.263)"><tspan x="-49.368" y="0">PAUZA</tspan></text>
+    <g id="Group_1" data-name="Group 1" transform="translate(-7 5)">
+      <text id="_10:00_-16:00_" data-name="10:00 -16:00 " class="cls-13" transform="translate(92 265)"><tspan x="-64.372" y="0">10:00 -16:00 </tspan></text>
+      <text id="h" class="cls-14" transform="translate(156 251)"><tspan x="-4.424" y="0">h</tspan></text>
+      <text id="h-2" data-name="h" class="cls-14" transform="translate(87 251)"><tspan x="-4.424" y="0">h</tspan></text>
+    </g>
+    <g id="Group_2" data-name="Group 2" transform="translate(-7 142)">
+      <text id="_16:00_-17:00_" data-name="16:00 -17:00 " class="cls-13" transform="translate(92 265)"><tspan x="-64.372" y="0">16:00 -17:00 </tspan></text>
+      <text id="h-3" data-name="h" class="cls-14" transform="translate(156 251)"><tspan x="-4.424" y="0">h</tspan></text>
+      <text id="h-4" data-name="h" class="cls-14" transform="translate(87 251)"><tspan x="-4.424" y="0">h</tspan></text>
+    </g>
+    <g id="Group_3" data-name="Group 3" transform="translate(-7 276)">
+      <text id="_17:00_-19:00_" data-name="17:00 -19:00 " class="cls-13" transform="translate(92 265)"><tspan x="-64.372" y="0">17:00 -19:00 </tspan></text>
+      <text id="h-5" data-name="h" class="cls-14" transform="translate(156 251)"><tspan x="-4.424" y="0">h</tspan></text>
+      <text id="h-6" data-name="h" class="cls-14" transform="translate(87 251)"><tspan x="-4.424" y="0">h</tspan></text>
+    </g>
+  </g>
+</svg>
