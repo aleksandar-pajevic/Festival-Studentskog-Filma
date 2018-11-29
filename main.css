@@ -1,3 +1,4 @@
+/******************************************* GLOBAL STYLES *****************************************************/
 
 @font-face {
   font-family: 'DINBold';
@@ -46,11 +47,10 @@
   font-style: normal;
 
 }
-/******************************************* GLOBAL STYLES *****************************************************/
 
 * {
   box-sizing: border-box;
-  font-family:'DINRegular', Helvetica, Arial, sans-serif;
+  font-family: DIN;
 }
 
 body {
@@ -266,7 +266,7 @@ i{
     margin-left: 5px;
   }
   .sponsores{
-    margin-top: 70px;
+    margin-top: 40px;
     margin-bottom: 30px;
   }
   i{
@@ -304,7 +304,7 @@ i{
     width: 450px;
   }
   .sponsores{
-    margin-top: 80px;
+    margin-top: 60px;
     margin-bottom: 40px;
   }
   i{
@@ -397,7 +397,7 @@ i{
     margin-left: 15px;
   }
   .sponsores{
-    margin-top: 90px;
+    margin-top: 50px;
     margin-bottom: 50px;
   }
   i{
@@ -426,6 +426,9 @@ i{
   .img-wrap {
     margin-bottom: 150px;
   }
+  .cards-holder {
+    width: 920px;
+  }
   .Loop {
     width: 990px;
     height: 790px;
@@ -436,15 +439,15 @@ i{
   .gradient-top, .gradient-bottom {
     height: 70px;
   }
-
-  .cards-holder {
-    width: 920px;
+  .bgd-kinoteka{
+    text-align: center;
+    margin-top: 80px;
   }
   .sponsores :nth-child(2){
     margin-left: 25px;
   }
   .sponsores{
-    margin-top: 100px;
+    margin-top: 60px;
     margin-bottom: 60px;
   }
   i{

@@ -1,0 +1,102 @@
+[
+  {
+    "imgSrc": "photo1",
+    "name": "Marko Novaković",
+    "job": "Selektor festivala"
+  },
+  {
+    "imgSrc": "photo2",
+    "name": "Lazar Bodroža",
+    "job": "Žiri festovala"
+  },
+  {
+    "imgSrc": "photo3",
+    "name": "Vuk Ršumović",
+    "job": "Žiri festovala"
+  },
+  {
+    "imgSrc": "photo4",
+    "name": "",
+    "job": "Žiri festovala"
+  },
+  {
+    "imgSrc": "photo5",
+    "name": "Ružica Anja Tadić",
+    "job": "Studentski žiri"
+  },
+  {
+    "imgSrc": "photo6",
+    "name": "Lazar Vranić",
+    "job": "Studentski žiri"
+  },
+  {
+    "imgSrc": "photo7",
+    "name": "Čarna Vučinić",
+    "job": "Studentski žiri"
+  },
+  {
+    "imgSrc": "photo8",
+    "name": "Danilo Ceković",
+    "job": "Studentski žiri"
+  },
+  {
+    "imgSrc": "photo9",
+    "name": "Petar Miloć",
+    "job": "Studentski žiri"
+  },
+  {
+    "imgSrc": "photo10",
+    "name": "Tara Drašković",
+    "job": "Oragnizacioni tim"
+  },
+  {
+    "imgSrc": "photo11",
+    "name": "Bojan Durutović",
+    "job": "Oragnizacioni tim"
+  },
+  {
+    "imgSrc": "photo12",
+    "name": "Ikonija Jeftić",
+    "job": "Oragnizacioni tim"
+  },
+  {
+    "imgSrc": "photo13",
+    "name": "Mirjana Žarković",
+    "job": "Oragnizacioni tim"
+  },
+  {
+    "imgSrc": "photo14",
+    "name": "Marija Kovačević Kuzmanovic ",
+    "job": "Oragnizacioni tim"
+  },
+  {
+    "imgSrc": "photo15",
+    "name": "",
+    "job": "Oragnizacioni tim"
+  },
+  {
+    "imgSrc": "photo16",
+    "name": "",
+    "job": "Oragnizacioni tim"
+  },
+  {
+    "imgSrc": "photo17",
+    "name": "",
+    "job": "Oragnizacioni tim"
+  },
+  {
+    "imgSrc": "photo18",
+    "name": "Marko Dzambic",
+    "job": "TEHNIČKA PODRŠKA"
+  },
+  {
+    "imgSrc": "photo19",
+    "name": "Stefan Gajić",
+    "job": "DIZAJNER"
+  },
+  {
+    "imgSrc": "photo20",
+    "name": "Aleksandar Pajević",
+    "job": "PROGRAMER"
+  }
+]

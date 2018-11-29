@@ -21,73 +21,20 @@
       </div>
     </header>
     <h2>ČLANOVI</h2>
-    <div class="cards-holder">
-      <div class="card">
-        <div class="user" style="background-image:url('face_1.jpg')"></div>
-        <div class="name">
-          <p>Nikola Nikolic</p>
+    <div id="cards-holder" class="cards-holder">
+
+      <script id="template" type="template">
+        <div class="card">
+          <div class="user" style="background-image:url('clanovi/{{imgSrc}}.jpg')"></div>
+          <div class="name">
+            <p>{{name}}</p>
+          </div>
+          <div class="job"><span>{{job}}</span></div>
         </div>
-        <div class="job"><span>Fotograf</span></div>
-      </div>
-      <div class="card">
-        <div class="user" style="background-image:url('face_1.jpg')"></div>
-        <div class="name">
-          <p>Nikola Nikolic</p>
-        </div>
-        <div class="job"><span>Fotograf</span></div>
-      </div>
-      <div class="card">
-        <div class="user" style="background-image:url('face_1.jpg')"></div>
-        <div class="name">
-          <p>Nikola Nikolic</p>
-        </div>
-        <div class="job"><span>Fotograf</span></div>
-      </div>
-      <div class="card">
-        <div class="user" style="background-image:url('face_1.jpg')"></div>
-        <div class="name">
-          <p>Nikola Nikolic</p>
-        </div>
-        <div class="job"><span>Fotograf</span></div>
-      </div>
-      <div class="card">
-        <div class="user" style="background-image:url('face_1.jpg')"></div>
-        <div class="name">
-          <p>Nikola Nikolic</p>
-        </div>
-        <div class="job"><span>Fotograf</span></div>
-      </div>
-      <div class="card">
-        <div class="user" style="background-image:url('face_1.jpg')"></div>
-        <div class="name">
-          <p>Nikola Nikolic</p>
-        </div>
-        <div class="job"><span>Fotograf</span></div>
-      </div>
-      <div class="card">
-        <div class="user" style="background-image:url('face_1.jpg')"></div>
-        <div class="name">
-          <p>Nikola Nikolic</p>
-        </div>
-        <div class="job"><span>Fotograf</span></div>
-      </div>
-      <div class="card">
-        <div class="user" style="background-image:url('face_1.jpg')"></div>
-        <div class="name">
-          <p>Nikola Nikolic</p>
-        </div>
-        <div class="job"><span>Fotograf</span></div>
-      </div>
-      <div class="card">
-        <div class="user" style="background-image:url('face_1.jpg')"></div>
-        <div class="name">
-          <p>Nikola Nikolic</p>
-        </div>
-        <div class="job"><span>Fotograf</span></div>
-      </div>
+     </script>
     </div>
     <div class="adress">
-      <p>Beograd | Uzun Mirkova 1 | zgrada "Kinoteke"</p>
+      <p>Beograd | Uzun Mirkova 1 | Jugoslovenska kinoteka</p>
     </div>
     <footer>
       <div class="social">
@@ -97,6 +44,7 @@
       </div>
     </footer>
   </div>
+  <script type="text/javascript" src="o_nama.js"></script>
 </body>
 
 </html>
