@@ -24,7 +24,7 @@
 
 }
 
-@font-face { 
+@font-face {
   font-family: 'DINRegular';
   src: url('/fonts/din-regular-webfont.eot');
   src: url('/fonts/din-regular-webfont.eot?#iefix') format('embedded-opentype'),
@@ -460,7 +460,10 @@ i{
 h2 {
   text-align: center;
   color: #000000;
-  opacity: 0.9;
+  background-color: transparent;
+  opacity: 0.8;
+  margin: 30px 0 ;
+  /* border-bottom: 1px dotted grey; */
 }
 
 /******************************************** HELPER CLASSES *************************************************/

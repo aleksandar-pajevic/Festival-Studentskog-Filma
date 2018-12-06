@@ -7,7 +7,7 @@
   {
     "imgSrc": "photo2",
     "name": "Lazar Bodroža",
-    "job": "Žiri festovala"
+    "job": "Žiri festivala"
   },
   {
     "imgSrc": "photo3",
@@ -16,7 +16,7 @@
   },
   {
     "imgSrc": "photo4",
-    "name": "",
+    "name": "Milan Marić",
     "job": "Žiri festovala"
   },
   {
@@ -71,31 +71,16 @@
   },
   {
     "imgSrc": "photo15",
-    "name": "",
-    "job": "Oragnizacioni tim"
-  },
-  {
-    "imgSrc": "photo16",
-    "name": "",
-    "job": "Oragnizacioni tim"
-  },
-  {
-    "imgSrc": "photo17",
-    "name": "",
-    "job": "Oragnizacioni tim"
-  },
-  {
-    "imgSrc": "photo18",
     "name": "Marko Dzambic",
     "job": "TEHNIČKA PODRŠKA"
   },
   {
-    "imgSrc": "photo19",
+    "imgSrc": "photo16",
     "name": "Stefan Gajić",
     "job": "DIZAJNER"
   },
   {
-    "imgSrc": "photo20",
+    "imgSrc": "photo17",
     "name": "Aleksandar Pajević",
     "job": "PROGRAMER"
   }
