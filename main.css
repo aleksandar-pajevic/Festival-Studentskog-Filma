@@ -59,6 +59,7 @@ body {
 .user{
   box-shadow: 10px 10px 20px #888888 ;
 }
+
 /*********************************************** LAYOUT *********************************************************/
 .img-block {
   display: block;
@@ -214,6 +215,11 @@ i{
   .akf-beograd{
     text-align: center;
     margin: 15px 0;
+  }
+  .img-width {
+    display: block;
+    margin: 0 auto;
+    max-width: 30%;
   }
   .cards-holder {
     color: #000000;
