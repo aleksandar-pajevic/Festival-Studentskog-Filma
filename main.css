@@ -148,7 +148,7 @@ i{
     -webkit-overflow-scrolling: touch;
   }
   section {
-    min-height: 485px;
+    min-height: 486px;
     height: 100%;
 
   }
@@ -157,23 +157,23 @@ i{
   }
 
   .one {
-  background-image: url('trake/traka_1.svg');
+  background-image: url('trake/traka_1.png');
   background-size: cover;
   }
   .two {
-    background-image: url('trake/traka_2-1.svg');
+    background-image: url('trake/traka_2-1.png');
     background-size: cover;
   }
   .three {
-    background-image: url('trake/traka_2-2.svg');
+    background-image: url('trake/traka_2-2.png');
     background-size: cover;
   }
   .four {
-    background-image: url('trake/traka_3-1.svg');
+    background-image: url('trake/traka_3-1.png');
     background-size: cover;
   }
   .five{
-    background-image: url('trake/traka_3-2.svg');
+    background-image: url('trake/traka_3-2.png');
     background-size: cover;
   }
 
